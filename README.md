@@ -31,12 +31,6 @@
 
    - Pressing `Order` will mimic a mock loading by showing the spinner.
 
-## Live Application URL
-
-The Application is deployed in https://eprozar-react.pages.dev/#/
-
-Click on the link to see the application
-
 ## Cloning and Running the Application in local
 
 Clone the project into local
