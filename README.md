@@ -31,6 +31,12 @@
 
    - Pressing `Order` will mimic a mock loading by showing the spinner.
 
+## Live Application URL
+
+The Application is deployed in https://redux-book-shop.pages.dev/
+
+Click on the link to see the application
+
 ## Cloning and Running the Application in local
 
 Clone the project into local
@@ -39,20 +45,6 @@ Install all the npm packages. Go into the project folder and type the following 
 
 ```bash
 npm install
-```
-
-## This application uses Redux and requires installation in order to run locally.
-
-1.
-
-```bash
-npm install @reduxjs/toolkit
-```
-
-2.
-
-```bash
-npm install react-redux
 ```
 
 In order to run the application type the following command:
